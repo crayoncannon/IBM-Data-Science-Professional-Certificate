@@ -1,9 +1,9 @@
 # This is a repository for the IBM Data Science Professional Certificate
 
-#### My objective for this course:
-##### 1. To gain some basic understanding of what Data Science is
-##### 2. To learn how use existing tools works so that I am aware and can consider using such analytic tools for my own application
-##### 3. To be able to have the knowledge to learn how to use other Data Science tools
+## My objective for this course:
+1. To gain some basic understanding of what Data Science is
+2. To learn how use existing tools works so that I am aware and can consider using such analytic tools for my own application
+3. To be able to have the knowledge to learn how to use other Data Science tools
 
 #### Projects completed in this course:
 1. Extract and graph financial data with the Pandas Python library
@@ -13,8 +13,11 @@
 5. Apply machine learning classification algorithms to predict whether a loan case will be paid off
 6. Train and compare machine learning models
 
-#### Tools learned: Jupyter / JupyterLab, GitHub, R Studio
-#### Libraries learned: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy
+## Tools learned: 
+Jupyter / JupyterLab, GitHub, R Studio
+
+## Libraries learned: 
+Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy
 
 ## Course content:
 1. Introduction to Data Science
@@ -30,4 +33,4 @@
 11. Generative AI: Elevate Your Data Science Career
 12. Data Scientist Career Guide and Interview Preparation
 
-###### *This program is ACE® and FIBAA recommended
+### *This program is ACE® and FIBAA recommended
